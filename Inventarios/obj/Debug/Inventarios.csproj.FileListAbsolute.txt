@@ -1,0 +1,30 @@
+C:\Users\MEDINA1\AppData\Local\Temporary Projects\Inventarios\bin\Debug\Inventarios.exe.config
+C:\INVENTARIOS\Inventarios\Inventarios\bin\Debug\Inventarios.exe.config
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.csprojResolveAssemblyReference.cache
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.Form1.resources
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.Properties.Resources.resources
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.GenerateResource.Cache
+C:\INVENTARIOS\Inventarios\Inventarios\bin\Debug\Inventarios.exe
+C:\INVENTARIOS\Inventarios\Inventarios\bin\Debug\Inventarios.pdb
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.exe
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.pdb
+H:\INGENIERIA DE SOFTWARE IV\INVENTARIOS\Inventarios\Inventarios\bin\Debug\Inventarios.exe.config
+H:\INGENIERIA DE SOFTWARE IV\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.exe
+H:\INGENIERIA DE SOFTWARE IV\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.pdb
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.frm_vtasticket.resources
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.frm_compras.resources
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.frm_cotizaciones.resources
+C:\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.frm_ventas.resources
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\bin\Debug\Inventarios.exe.config
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.exe
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.pdb
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\bin\Debug\Inventarios.exe
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\bin\Debug\Inventarios.pdb
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.csprojResolveAssemblyReference.cache
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.Form1.resources
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.frm_compras.resources
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.frm_cotizaciones.resources
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.frm_ventas.resources
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.frm_vtasticket.resources
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.Properties.Resources.resources
+C:\Users\piraton\Desktop\sony\INVENTARIOS\INVENTARIOS\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.GenerateResource.Cache
